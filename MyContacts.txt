@@ -1,0 +1,5 @@
+Amy;0210000020;amy@123.com;21 xxxx Road, Wellington, New Zealand
+David;0220000001;david@123.com;11 xxxxx Street, Wellington, New Zealand
+John;0210000011;john@123.com;12 xxxx Street, Wellington, New Zealand
+Ivy;0210000132;ivy@123.com;33 xxxx Street, Auckland, New Zealand
+Ben;0211111000;ben@123.com;5 xxx Street, Auckland, New Zealand
